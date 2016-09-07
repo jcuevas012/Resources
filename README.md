@@ -1,7 +1,6 @@
 # ResourcesCode
-This is a collection of books that I have been reading throw my process learning programming. 
-As programming lover, I have been looking throw a good resources to learn how to a work with better quality.
-so those books are recomended for good java's developer, then I decided to makes my own collection from their 
+This is a collection of books that as programming lover, I have been reading through my process learning how to develop good softwares,
+I have been looking for good resources to learn how to do a work with better quality. so those books are recomended for good java's developer, then I decided to makes my own collection from their 
 recomendation.
 
 
